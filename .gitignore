@@ -1,0 +1,7 @@
+src/mongo/settings.json
+upload.sh
+oauth_upload.sh
+oauth.zip
+node_modules/
+handleBotEvent.zip
+.vscode/
